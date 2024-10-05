@@ -1,0 +1,8 @@
+ERC report (2024-09-30T19:11:52+0530, Encoding UTF8)
+
+***** Sheet /
+[lib_symbol_issues]: Symbol 'ESP32-S3-MINI-1-N8' has been modified in library 'ESP32-S3-MINI-1-N8'
+    ; warning
+    @(7.3500 in, 3.0000 in): Symbol U3 [ESP32-S3-MINI-1-N8]
+
+ ** ERC messages: 1  Errors 0  Warnings 1
